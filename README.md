@@ -3,7 +3,7 @@
 > **Use simple EQ to simulate the audio balance at a different loudness without changing your volume. Improve the bass-mid-high balance in your mixing and mastering while listening at a comfortable volume.**
 
 Author: Andrew Hunt
-<br> Git Repo: https://github.com/andrewjhunt/equal-loudness
+<br> Git Repo: [https://github.com/musios-app/equal-loudness](https://github.com/musios-app/equal-loudness)
 
 
 ## Overview
