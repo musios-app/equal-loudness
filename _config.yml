@@ -1,4 +1,4 @@
 theme: jekyll-theme-slate
 
-url: "https://musios.app"
-baseurl: "/equal-loudness"
+url: https://musios.app
+baseurl: /equal-loudness
