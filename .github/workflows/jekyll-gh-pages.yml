@@ -42,8 +42,8 @@ jobs:
   deploy:
     environment:
       name: github-pages
-      # url: ${{ vars.REPO_PATH_MUSIOS }}
-      url: ${{ steps.deployment.outputs.page_url }}
+      url: ${{ vars.REPO_PATH_MUSIOS }}
+      #url: ${{ steps.deployment.outputs.page_url }}
     runs-on: ubuntu-latest
     needs: build
     steps:
