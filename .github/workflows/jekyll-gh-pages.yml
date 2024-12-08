@@ -48,7 +48,7 @@ jobs:
     needs: build
     steps:
       - name: debug
-        run: echo "DEBUG steps:${{ toJSON(steps) }}"
+        run: echo ${{ toJSON(steps) }}
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
