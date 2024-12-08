@@ -1,8 +1,4 @@
 theme: jekyll-theme-slate
-layout: default
-
-#domain: musios.app
-#url: "https://musios.app"
-#baseurl: "/equal-loudness"
+layout: page
 
 title: Equal Loudness
