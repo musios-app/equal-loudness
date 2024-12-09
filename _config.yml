@@ -2,3 +2,4 @@ theme: jekyll-theme-slate
 layout: default
 
 title: Equal Loudness (musios.app)
+baseurl: /equal-loudness
