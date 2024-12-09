@@ -1,0 +1,33 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+body {}
+
+#header_wrap {
+    &.outer {
+        background: none;
+        background-image: url("/assets/images/background-colors-crop.jpg");
+        background-position: center bottom;
+        background-repeat: no-repeat;
+        background-size: cover;
+    }
+
+    #project_title, #project_tagline {
+        color: #ffffff;
+        text-shadow: 0 0 1.0rem black;
+    }
+}
+
+#forkme_banner {
+    display: none;
+}
+
+#main_content_wrap {
+    .outer {
+    }
+    .inner {
+    }
+}
+
