@@ -6,7 +6,7 @@
 
 Author: Andrew Hunt
 <br> Git Repo: [https://github.com/musios-app/equal-loudness](https://github.com/musios-app/equal-loudness)
-
+<br> [Apache License 2.0](./LICENSE.txt)
 
 ## Overview
 
