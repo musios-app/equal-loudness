@@ -1,7 +1,7 @@
 ---
 title: EQ for Equal Loudness
-menus: header
 layout: default
+menus: header
 ---
 
 # EQ for Equal Loudness
