@@ -1,7 +1,8 @@
 ---
-title: EQ for Equal Loudness
 layout: default
-menus: header
+title: EQ for Equal Loudness
+description: Use simple EQ to simulate the audio balance at a different loudness without changing your volume. Improve the bass-mid-high balance in your mixing and mastering while listening at a comfortable volume.
+image: /images/volume11.jpg
 ---
 
 # EQ for Equal Loudness
