@@ -4,6 +4,7 @@ title: EQ for Equal Loudness
 description: Use simple EQ to simulate the audio balance at a different loudness without changing your volume. Improve the bass-mid-high balance in your mixing and mastering while listening at a comfortable volume.
 image: images/volume11.jpg
 gitrepo: https://github.com/musios-app/equal-loudness
+tags: home-studio
 ---
 
 # EQ for Equal Loudness
