@@ -6,6 +6,10 @@ tagline: "Use simple EQ to simulate the audio balance at a different loudness wi
 icon: images/volume-knob-icon.svg
 gitrepo: https://github.com/musios-app/equal-loudness
 tags: home-studio
+date: 2021-04-02
+seo:
+  type: TechArticle
+  date_modified: 2026-10-19
 ---
 
 # EQ for Equal Loudness
